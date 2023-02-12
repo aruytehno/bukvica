@@ -1,0 +1,40 @@
+h1 {
+	text-align: center;
+	font-family: Bookvica;
+	font-size: 33pt;
+	line-height: 60pt;
+}
+
+h1>span {
+	display: none;
+}
+
+.bukvica {
+	table-layout: fixed;
+	width: 100%
+	white-space: nowrap;
+	margin: auto;
+	text-align: center;
+	vertical-align: center;
+	font-family: Bookvica;
+	font-size: 40pt;
+}
+
+td {
+	white-space: nowrap;
+
+	line-height: 16pt;
+	padding: 16pt;
+}
+
+td>span {
+	font-size: 9pt;
+	line-height: 7pt;
+}
+
+body {
+	/*background-image: url(images/pergament.jpg);*/
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: 1000px cover;
+}
