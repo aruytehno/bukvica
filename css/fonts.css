@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Bookvica';
+  font-style: normal;
+  src: local('Bookvica'), local('Bookvica'), url(../fonts/Bookvica.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Bookvica New';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Bookvica New'), local('Bookvica New'), url(../fonts/BookvicaNew.woff) format('woff');
+}

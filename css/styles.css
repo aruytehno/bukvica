@@ -33,7 +33,8 @@ td>span {
 }
 
 body {
-	/*background-image: url(images/pergament.jpg);*/
+    background-image: url(tochki.jpg); /* Путь к фоновому изображению */
+    background-color: #c7b39b; /* Цвет фона */
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: 1000px cover;
