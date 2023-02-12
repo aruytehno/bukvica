@@ -11,7 +11,7 @@ h1 > span {
 
 .bukvica {
     table-layout: fixed;
-    width: 100%
+    width: 100%;
     white-space: nowrap;
     margin: auto;
     text-align: center;
@@ -33,9 +33,9 @@ td > span {
 }
 
 body {
-    background-image: url(tochki.jpg); /* Путь к фоновому изображению */
+    /*background-image: url("images/tochki.jpg"); !* Путь к фоновому изображению *!*/
     background-color: #c7b39b; /* Цвет фона */
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 1000px cover;
+    background-size: 1000px;
 }
